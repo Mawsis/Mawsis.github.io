@@ -1,0 +1,90 @@
+{
+  "personalInformation": {
+    "name": "Wassim Ali Khouas",
+    "position": "Backend Engineer",
+    "contactInformation": "+213542286632",
+    "email": "khouaswassimali@gmail.com",
+    "address": "Algiers, Algeria",
+    "profileImage": null
+  },
+  "socialMedia": [
+    {
+      "socialMedia": "LinkedIn",
+      "link": ""
+    },
+    {
+      "socialMedia": "Github",
+      "link": ""
+    }
+  ],
+  "summary": "Dynamic Backend Developer with over a year of experience, adept at creating robust APIs and streamlining application performance. Equipped with a solid foundation in backend development using Laravel and Express, complemented by hands-on experience in data analysis and database management. Proven ability to enhance operational workflows through innovative solutions, while effectively collaborating with teams. Committed to delivering high-quality software that meets client needs and enhances user experiences.",
+  "education": [
+    {
+      "school": "University Of Science And Technology Houari Boumediene",
+      "degree": "Bachelor’s Degree in Computer Science",
+      "startYear": "2021-09-01",
+      "endYear": null
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "MI Conseils",
+      "position": "Backend Developer",
+      "description": "Designed and implemented backend APIs using Laravel and Express (TypeScript) to serve a diverse client base. Developed a RESTful API that allowed the app to integrate with backend services, resulting in enhanced user experience.",
+      "keyAchievements": "",
+      "startYear": "2024-06-01",
+      "endYear": null
+    },
+    {
+      "company": "Air Algerie",
+      "position": "Web Application Development Intern - Human Resources System",
+      "description": "Designed and developed a comprehensive HR web application (pointage system) using Laravel and React, streamlining attendance tracking for over 500 employees. Crafted detailed UML diagrams to architect the database, which improved system performance and reduced data retrieval times by 25%. Enhanced operational workflows, increasing overall HR process efficiency by 20%.",
+      "keyAchievements": "",
+      "startYear": "2024-04-01",
+      "endYear": "2024-07-01"
+    },
+    {
+      "company": "Djezzy",
+      "position": "Intern in Data Analysis and Database/Data Warehouse Management",
+      "description": "Completed a data analysis internship at Djezzy, Algeria’s leading mobile operator with over 17 million subscribers. Gained hands-on experience in database structures, business intelligence, and optimization. Developed a strong understanding of the roles in the company.",
+      "keyAchievements": "",
+      "startYear": "2023-06-01",
+      "endYear": "2023-08-01"
+    }
+  ],
+  "projects": [
+    {
+      "name": "HR Web Application (Pointage System)",
+      "link": "",
+      "description": "Designed and developed a comprehensive HR web application (pointage system) using Laravel and React for Air Algerie.",
+      "keyAchievements": "Improved system performance and reduced data retrieval times by 25%. Increased overall HR process efficiency by 20%.",
+      "startYear": "2024-04-01",
+      "endYear": "2024-07-01"
+    },
+    {
+      "name": "Backend API for MI Conseils",
+      "link": "",
+      "description": "Designed and implemented backend APIs using Laravel and Express (TypeScript) for MI Conseils.",
+      "keyAchievements": "Developed a RESTful API that allowed the app to integrate with backend services, resulting in enhanced user experience.",
+      "startYear": "2024-06-01",
+      "endYear": null
+    }
+  ],
+  "technicalSkills": [
+    "Laravel",
+    "Express",
+    "TypeScript",
+    "React",
+    "API Development",
+    "Version Control",
+    "Database Management"
+  ],
+  "softSkills": ["Effective Team Leader", "Collaboration"],
+  "additionalSkills": [
+    "Data Analysis",
+    "Business Intelligence",
+    "Optimization"
+  ],
+  "languages": ["Arabic", "English", "French"],
+  "certifications": []
+}
