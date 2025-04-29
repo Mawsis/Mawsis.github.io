@@ -5,7 +5,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  assetPrefix: "./",
+  // Remove assetPrefix entirely
 };
 
 export default nextConfig;
